@@ -1,0 +1,13 @@
+{
+  "name": "Ultragaz 24 Horas",
+  "short_name": "UG24H",
+  "description": "Peça seu botijão de gás Ultragaz 24 horas. Entrega rápida na Zona Leste de SP.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0054A6",
+  "theme_color": "#0054A6",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
